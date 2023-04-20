@@ -1,4 +1,4 @@
-// ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors, sort_child_properties_last
+// ignore_for_file: prefer_const_constructors, use_key_in_widget_constructors, sort_child_properties_last
 
 import 'package:flutter/material.dart';
 import '../dummy_data.dart';
